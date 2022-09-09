@@ -1,6 +1,9 @@
 # KRULY'log
 이커머스와 SNS를 통합한 웹 서비스
 
+- 팀명 : SSAP  
+<img src="https://user-images.githubusercontent.com/97212459/185301108-05805298-8f35-47b5-a617-dd620e00ab34.png" width="200" alt="ssap로고"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.discordapp.com/attachments/979000955657945131/1011609165120143430/kurly_ssap_logo_circle.png" alt="원형 로고" width="70">  
+
 
 <br><br>   
 # Overview
